@@ -9,6 +9,10 @@
 
 ### 💻 실행 화면
 
+<img src="https://github.com/JuheeeKim/java-parking-service/assets/123529128/b4bbf89e-09cb-4427-8676-d0d57416915d" width="500" height="400"/>
+<img src="https://github.com/JuheeeKim/java-parking-service/assets/123529128/17da3bf9-5917-45bb-b193-af90f71c112b" width="450" height="400"/>
+
+
 </br>
 
 ### ⭐ 주요 기능
