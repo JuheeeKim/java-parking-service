@@ -37,24 +37,12 @@ public class RCar {
         return year;
     }
 
-    public void setYear(Integer year) {
-        this.year = year;
-    }
-
     public int getMonth() {
         return month;
     }
 
-    public void setMonth(Integer month) {
-        this.month = month;
-    }
-
     public int getDate() {
         return date;
-    }
-
-    public void setDate(Integer date) {
-        this.date = date;
     }
 
     public int getParkingNum() {
