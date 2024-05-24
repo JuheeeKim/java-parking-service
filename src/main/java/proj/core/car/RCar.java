@@ -21,16 +21,8 @@ public class RCar {
         return carId;
     }
 
-    public void setCarId(Long carId) {
-        this.carId = carId;
-    }
-
     public String getPhoneNum() {
         return phoneNum;
-    }
-
-    public void setPhoneNum(String phoneNum) {
-        this.phoneNum = phoneNum;
     }
 
     public int getYear() {
